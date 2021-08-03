@@ -5,8 +5,8 @@
    h1 {
     margin-bottom: 15px;
   }
-  
-  body
+
+  body {
   p {
     border: 1px solid black;
     background-color: #A52A2A;
@@ -110,3 +110,4 @@
       width: 100%;
     }
   }
+}
