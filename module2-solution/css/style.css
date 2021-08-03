@@ -2,7 +2,7 @@
 * {
     box-sizing: border-box;
   }
-  body
+  body {
   h1 {
     margin-bottom: 15px;
   }
@@ -110,3 +110,4 @@
       width: 100%;
     }
   }
+}
