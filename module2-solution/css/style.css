@@ -1,9 +1,8 @@
 /********** Base styles **********/
-Style {
-    * {
+* {
     box-sizing: border-box;
   }
-
+  
   h1 {
     margin-bottom: 15px;
   }
@@ -66,7 +65,7 @@ Style {
     .col-md-12 {
       width: 100%;
     }
-}
+
 
 /********** Medium devices only Tablets**********/
 @media (min-width: 768px) and (max-width: 992px) {
