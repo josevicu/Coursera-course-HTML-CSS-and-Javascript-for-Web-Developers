@@ -18,6 +18,11 @@ p {
     color: white;
 }
 
+#container {
+    position: relative;
+    
+}
+
 /* Simple Responsive Framework. */
 .row {
     width: 100%;
